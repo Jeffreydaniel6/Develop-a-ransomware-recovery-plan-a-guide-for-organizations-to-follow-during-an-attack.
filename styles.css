@@ -1,0 +1,26 @@
+/* Styling the overall page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  h1 {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .accordion-item {
+    border: 1px solid #ddd;
+  }
+  
+  .accordion-header button {
+    font-weight: bold;
+  }
+
+  
